@@ -1,0 +1,24 @@
+com/android/teams/databinding/ActivityTeamsBinding.java
+ com.android.teams.databinding.ActivityTeamsBinding
+com/android/teams/databinding/HolderTeamBindingImpl.java
+ com.android.teams.databinding.HolderTeamBindingImpl
+com/android/teams/BR.java
+ com.android.teams.BR
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/android/teams/databinding/ActivityTeamsBindingImpl.java
+ com.android.teams.databinding.ActivityTeamsBindingImpl
+com/android/teams/databinding/HolderTeamBinding.java
+ com.android.teams.databinding.HolderTeamBinding
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/android/teams/DataBindingTriggerClass.java
+ com.android.teams.DataBindingTriggerClass
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/android/teams/BuildConfig.java
+ com.android.teams.BuildConfig
+com/android/teams/DataBinderMapperImpl.java
+ com.android.teams.DataBinderMapperImpl
+ com.android.teams.DataBinderMapperImpl$InnerBrLookup
+ com.android.teams.DataBinderMapperImpl$InnerLayoutIdLookup

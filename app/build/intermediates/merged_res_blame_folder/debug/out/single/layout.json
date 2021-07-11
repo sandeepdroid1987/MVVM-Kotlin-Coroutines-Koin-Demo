@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sandgupta/Documents/samples/misc/forza/sandeep-android-dev/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_teams.xml",
+        "source": "/Users/sandgupta/Documents/samples/misc/forza/sandeep-android-dev/app/src/main/res/layout/activity_teams.xml"
+    },
+    {
+        "merged": "/Users/sandgupta/Documents/samples/misc/forza/sandeep-android-dev/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/holder_team.xml",
+        "source": "/Users/sandgupta/Documents/samples/misc/forza/sandeep-android-dev/app/src/main/res/layout/holder_team.xml"
+    }
+]
